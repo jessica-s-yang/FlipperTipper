@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-There were challenges implementing a pop circle animation.
+There were challenges slowing down the toast on the settings page and implementing a pop circle animation.
 
 ## License
 
