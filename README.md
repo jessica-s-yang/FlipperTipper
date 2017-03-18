@@ -1,6 +1,6 @@
 # Pre-work - Tip Calculator
 
-Fipper Tipper is a tip calculator application for iOS.
+Fipper Tipper is a dophin-beach themed tip calculator application for iOS.
 
 Submitted by: Jessica Yang
 
@@ -24,7 +24,8 @@ The following extended features are to be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jessica-s-yang/FlipperTipper/blob/master/FlipperTipper.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
