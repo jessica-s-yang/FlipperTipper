@@ -62,8 +62,8 @@ extension CircularTransition:UIViewControllerAnimatedTransitioning{
                     presentedView.alpha = 1 // make it visable
                     presentedView.center = viewCenter //change center to view's center
                     
-                    }, completion: { (success:Bool) in
-                        transitionContext.completeTransition(success)
+                }, completion: { (success:Bool) in
+                    transitionContext.completeTransition(success)
                 })
                 
             }
@@ -114,6 +114,5 @@ extension CircularTransition:UIViewControllerAnimatedTransitioning{
         return CGRect(origin: CGPoint.zero, size: size)
         
     }
-
-
+    
 }
