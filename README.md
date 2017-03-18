@@ -35,6 +35,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 There were challenges slowing down the toast on the settings page and implementing a pop circle animation.
 
+image credits:
+I'm super good with adobe suite, and have been the winning poster designer for theater productions since high school.
+Without the adobe license I can no longer make these images with ease, thankfully there is google and free sites like https://www.clipartsgram.com/free-beach-clipart-backgrounds-29369 , https://www.dreamstime.com/royalty-free-stock-images-cute-dolphin-cartoon-illustration-image39147919, http://wallpapercave.com/fish-wallpaper to pull images from =)
+
 ## License
 
     Copyright 2017 Jessica Yang
