@@ -22,7 +22,9 @@ The following extended features are to be implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories from standard tip calculator to Flipper Tipper:
+
+<img src='https://github.com/jessica-s-yang/FlipperTipper/blob/master/FlipperTipperExtended.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/jessica-s-yang/FlipperTipper/blob/master/FlipperTipper.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
